@@ -1,0 +1,517 @@
+"id","con_id","symbol","market","exchange","primary_exchange","currency","country","sector","industry","sub_industry","long_name","is_active","updated_at"
+8,265768,ADBE,US,SMART,NASDAQ,USD,,Technology,Software,Electronic Forms,ADOBE INC,true,2026-06-13 22:32:43.945
+9,4157,ADI,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,ANALOG DEVICES INC,true,2026-06-13 22:32:43.945
+10,4165,ADM,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Agriculture,Agricultural Operations,ARCHER-DANIELS-MIDLAND CO,true,2026-06-13 22:32:43.945
+11,4661,ADP,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Services,AUTOMATIC DATA PROCESSING,true,2026-06-13 22:32:43.945
+12,265681,ADSK,US,SMART,NASDAQ,USD,,Technology,Software,Computer Aided Design,AUTODESK INC,true,2026-06-13 22:32:43.945
+13,13181,AEE,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,AMEREN CORP,true,2026-06-13 22:32:43.945
+14,4211,AEP,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Integrated,AMERICAN ELECTRIC POWER,true,2026-06-13 22:32:43.945
+15,2560358,AES,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,AES CORP,true,2026-06-13 22:32:43.945
+16,4227,AFL,US,SMART,NYSE,USD,,Financial,Insurance,Life/Health Insurance,AFLAC INC,true,2026-06-13 22:32:43.945
+17,61319701,AIG,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,AMERICAN INTERNATIONAL GROUP,true,2026-06-13 22:32:43.945
+18,27727424,AIZ,US,SMART,NYSE,USD,,Financial,Insurance,Property/Casualty Ins,ASSURANT INC,true,2026-06-13 22:32:43.945
+19,4325,AJG,US,SMART,NYSE,USD,,Financial,Insurance,Insurance Brokers,ARTHUR J GALLAGHER & CO,true,2026-06-13 22:32:43.945
+20,6220356,AKAM,US,SMART,NASDAQ,USD,,Technology,Software,Computer Software,AKAMAI TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+21,4347,ALB,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Specialty,ALBEMARLE CORP,true,2026-06-13 22:32:43.945
+22,11459264,ALGN,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,ALIGN TECHNOLOGY INC,true,2026-06-13 22:32:43.945
+23,4357,ALL,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,ALLSTATE CORP,true,2026-06-13 22:32:43.945
+24,138438437,ALLE,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Secur Devices,ALLEGION PLC,true,2026-06-13 22:32:43.945
+25,29442968,ALNY,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,ALNYLAM PHARMACEUTICALS INC,true,2026-06-13 22:32:43.945
+27,845305949,AMCR,US,SMART,NYSE,USD,,Industrial,Packaging&Containers,Containers-Paper/Plastic,AMCOR PLC,true,2026-06-13 22:32:43.945
+28,4391,AMD,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,ADVANCED MICRO DEVICES,true,2026-06-13 22:32:43.945
+29,4392,AME,US,SMART,NYSE,USD,,Industrial,Electrical Compo&Equip,Electric Products-Misc,AMETEK INC,true,2026-06-13 22:32:43.945
+30,266145,AMGN,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,AMGEN INC,true,2026-06-13 22:32:43.945
+31,35970258,AMP,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,AMERIPRISE FINANCIAL INC,true,2026-06-13 22:32:43.945
+32,99831145,AMT,US,SMART,NYSE,USD,,Financial,REITS,REITS-Diversified,AMERICAN TOWER CORP,true,2026-06-13 22:32:43.945
+208,498843743,GE,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense-Equip,GENERAL ELECTRIC,true,2026-06-13 22:32:43.945
+209,601776309,GEHC,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Imaging Systems,GE HEALTHCARE TECHNOLOGY,true,2026-06-13 22:32:43.945
+210,390332324,GEN,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Security,GEN DIGITAL INC,true,2026-06-13 22:32:43.945
+211,691984365,GEV,US,SMART,NYSE,USD,,Industrial,Machinery-Constr&Mining,Machinery-Electric Util,GE VERNOVA INC,true,2026-06-13 22:32:43.945
+212,269753,GILD,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,GILEAD SCIENCES INC,true,2026-06-13 22:32:43.945
+213,7616,GIS,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Misc/Diversified,GENERAL MILLS INC,true,2026-06-13 22:32:43.945
+214,375868349,GL,US,SMART,NYSE,USD,,Financial,Insurance,Life/Health Insurance,GLOBE LIFE INC,true,2026-06-13 22:32:43.945
+215,7655,GLW,US,SMART,NYSE,USD,,Communications,Telecommunications,Telecom Eq Fiber Optics,CORNING INC,true,2026-06-13 22:32:43.945
+216,80986742,GM,US,SMART,NYSE,USD,,"Consumer, Cyclical",Auto Manufacturers,Auto-Cars/Light Trucks,GENERAL MOTORS CO,true,2026-06-13 22:32:43.945
+217,72529783,GNRC,US,SMART,NYSE,USD,,Industrial,Electrical Compo&Equip,Power Conv/Supply Equip,GENERAC HOLDINGS INC,true,2026-06-13 22:32:43.945
+218,208813720,GOOG,US,SMART,NASDAQ,USD,,Communications,Internet,Web Portals/ISP,ALPHABET INC-CL C,true,2026-06-13 22:32:43.945
+219,208813719,GOOGL,US,SMART,NASDAQ,USD,,Communications,Internet,Web Portals/ISP,ALPHABET INC-CL A,true,2026-06-13 22:32:43.945
+220,7745,GPC,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Auto Parts,GENUINE PARTS CO,true,2026-06-13 22:32:43.945
+221,11477774,GPN,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,GLOBAL PAYMENTS INC,true,2026-06-13 22:32:43.945
+222,76791198,GRMN,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Compo-Misc,GARMIN LTD,true,2026-06-13 22:32:43.945
+223,4627828,GS,US,SMART,NYSE,USD,,Financial,Banks,Diversified Banking Inst,GOLDMAN SACHS GROUP INC,true,2026-06-13 22:32:43.945
+224,7867,GWW,US,SMART,NYSE,USD,,"Consumer, Cyclical",Distribution/Wholesale,Distribution/Wholesale,WW GRAINGER INC,true,2026-06-13 22:32:43.945
+225,7890,HAL,US,SMART,NYSE,USD,,Energy,Oil&Gas Services,Oil-Field Services,HALLIBURTON CO,true,2026-06-13 22:32:43.945
+226,754956,HAS,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Toys/Games/Hobbies,Toys,HASBRO INC,true,2026-06-13 22:32:43.945
+227,270018,HBAN,US,SMART,NASDAQ,USD,,Financial,Banks,Super-Regional Banks-US,HUNTINGTON BANCSHARES INC,true,2026-06-13 22:32:43.945
+228,85076790,HCA,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-Hospitals,HCA HEALTHCARE INC,true,2026-06-13 22:32:43.945
+229,7930,HD,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Building Products,HOME DEPOT INC,true,2026-06-13 22:32:43.945
+230,1217009,HIG,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,HARTFORD INSURANCE GROUP INC,true,2026-06-13 22:32:43.945
+231,86033355,HII,US,SMART,NYSE,USD,,Industrial,Shipbuilding,Shipbuilding,HUNTINGTON INGALLS INDUSTRIE,true,2026-06-13 22:32:43.945
+232,257944570,HLT,US,SMART,NYSE,USD,,"Consumer, Cyclical",Lodging,Hotels&Motels,HILTON WORLDWIDE HOLDINGS IN,true,2026-06-13 22:32:43.945
+233,4350,HON,US,SMART,NASDAQ,USD,,Industrial,Electronics,Instruments-Controls,HONEYWELL INTERNATIONAL INC,true,2026-06-13 22:32:43.945
+234,504546674,HOOD,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Brokers,ROBINHOOD MARKETS INC - A,true,2026-06-13 22:32:43.945
+235,209411798,HPE,US,SMART,NYSE,USD,,Technology,Computers,Computers,HEWLETT PACKARD ENTERPRISE,true,2026-06-13 22:32:43.945
+236,209411801,HPQ,US,SMART,NYSE,USD,,Technology,Computers,Computers,HP INC,true,2026-06-13 22:32:43.945
+388,12002,PSA,US,SMART,NYSE,USD,,Financial,REITS,REITS-Storage,PUBLIC STORAGE,true,2026-06-13 22:32:43.945
+396,11520,RCL,US,SMART,NYSE,USD,,"Consumer, Cyclical",Leisure Time,Cruise Lines,ROYAL CARIBBEAN CRUISES LTD,true,2026-06-13 22:32:43.945
+397,11574,REG,US,SMART,NASDAQ,USD,,Financial,REITS,REITS-Shopping Centers,REGENCY CENTERS CORP,true,2026-06-13 22:32:43.945
+398,273733,REGN,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,REGENERON PHARMACEUTICALS,true,2026-06-13 22:32:43.945
+399,273815,RF,US,SMART,NYSE,USD,,Financial,Banks,Commer Banks-Southern US,REGIONS FINANCIAL CORP,true,2026-06-13 22:32:43.945
+400,11656,RJF,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,RAYMOND JAMES FINANCIAL INC,true,2026-06-13 22:32:43.945
+401,92306678,RL,US,SMART,NYSE,USD,,"Consumer, Cyclical",Apparel,Apparel Manufacturers,RALPH LAUREN CORP,true,2026-06-13 22:32:43.945
+402,4817352,RMD,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Respiratory Products,RESMED INC,true,2026-06-13 22:32:43.945
+403,11697,ROK,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Industrial Automat/Robot,ROCKWELL AUTOMATION INC,true,2026-06-13 22:32:43.945
+1,1715006,A,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Equipment,AGILENT TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+514,12851783,ZBH,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,ZIMMER BIOMET HOLDINGS INC,true,2026-06-13 22:32:43.945
+515,276304,ZBRA,US,SMART,NASDAQ,USD,,Technology,Office/Business Equip,Office Automation&Equip,ZEBRA TECHNOLOGIES CORP-CL A,true,2026-06-13 22:32:43.945
+516,310621426,ZS,US,SMART,NASDAQ,USD,,Technology,Computers,Computer Data Security,ZSCALER INC,true,2026-06-13 22:32:43.945
+517,121665622,ZTS,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,ZOETIS INC,true,2026-06-13 22:32:43.945
+2,265598,AAPL,US,SMART,NASDAQ,USD,,Technology,Computers,Computers,APPLE INC,true,2026-06-13 22:32:43.945
+3,118089500,ABBV,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,ABBVIE INC,true,2026-06-13 22:32:43.945
+4,459530964,ABNB,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Services,AIRBNB INC-CLASS A,true,2026-06-13 22:32:43.945
+5,4065,ABT,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,ABBOTT LABORATORIES .,true,2026-06-13 22:32:43.945
+6,10763362,ACGL,US,SMART,NASDAQ,USD,,Financial,Insurance,Property/Casualty Ins,ARCH CAPITAL GROUP LTD,true,2026-06-13 22:32:43.945
+7,67889930,ACN,US,SMART,NYSE,USD,,Technology,Computers,Computer Services,ACCENTURE PLC-CL A,true,2026-06-13 22:32:43.945
+26,266093,AMAT,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semiconductor Equipment,APPLIED MATERIALS INC,true,2026-06-13 22:32:43.945
+33,3691937,AMZN,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Products,AMAZON.COM INC,true,2026-06-13 22:32:43.945
+34,740948854,ANET,US,SMART,NYSE,USD,,Communications,Telecommunications,Networking Products,ARISTA NETWORKS INC,true,2026-06-13 22:32:43.945
+35,414366114,AON,US,SMART,NYSE,USD,,Financial,Insurance,Insurance Brokers,AON PLC-CLASS A,true,2026-06-13 22:32:43.945
+36,12225,AOS,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Diversified Manufact Op,SMITH (A.O.) CORP,true,2026-06-13 22:32:43.945
+37,474515500,APA,US,SMART,NASDAQ,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,APA CORP,true,2026-06-13 22:32:43.945
+38,4487,APD,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Industrial Gases,AIR PRODUCTS & CHEMICALS INC,true,2026-06-13 22:32:43.945
+39,4493,APH,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Connectors,AMPHENOL CORP-CL A,true,2026-06-13 22:32:43.945
+40,535288388,APO,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,APOLLO GLOBAL MANAGEMENT INC,true,2026-06-13 22:32:43.945
+41,481863646,APP,US,SMART,NASDAQ,USD,,Communications,Internet,E-Marketing/Info,APPLOVIN CORP-CLASS A,true,2026-06-13 22:32:43.945
+42,748351585,APTV,US,SMART,NYSE,USD,,"Consumer, Cyclical",Auto Parts&Equipment,Auto/Trk Prts&Equip-Orig,APTIV PLC,true,2026-06-13 22:32:43.945
+43,6607487,ARE,US,SMART,NYSE,USD,,Financial,REITS,REITS-Health Care,ALEXANDRIA REAL ESTATE EQUIT,true,2026-06-13 22:32:43.945
+44,341904548,ARES,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,ARES MANAGEMENT CORP - A,true,2026-06-13 22:32:43.945
+45,653400472,ARM,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,ARM HOLDINGS PLC-ADR,true,2026-06-13 22:32:43.945
+46,117902840,ASML,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semiconductor Equipment,ASML HOLDING NV-NY REG SHS,true,2026-06-13 22:32:43.945
+47,4644,ATO,US,SMART,NYSE,USD,,Utilities,Gas,Gas-Distribution,ATMOS ENERGY CORP,true,2026-06-13 22:32:43.945
+48,5026974,AVB,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,AVALONBAY COMMUNITIES INC,true,2026-06-13 22:32:43.945
+49,313130367,AVGO,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,BROADCOM INC,true,2026-06-13 22:32:43.945
+50,4694,AVY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Household Products/Wares,Office Supplies&Forms,AVERY DENNISON CORP,true,2026-06-13 22:32:43.945
+51,50530752,AWK,US,SMART,NYSE,USD,,Utilities,Water,Water,AMERICAN WATER WORKS CO INC,true,2026-06-13 22:32:43.945
+52,272104927,AXON,US,SMART,NASDAQ,USD,,Industrial,Miscellaneous Manufactur,Firearms&Ammunition,AXON ENTERPRISE INC,true,2026-06-13 22:32:43.945
+53,4721,AXP,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Credit Card,AMERICAN EXPRESS CO,true,2026-06-13 22:32:43.945
+54,4750,AZO,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Auto Parts,AUTOZONE INC,true,2026-06-13 22:32:43.945
+55,4762,BA,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense,BOEING CO/THE,true,2026-06-13 22:32:43.945
+56,10098,BAC,US,SMART,NYSE,USD,,Financial,Banks,Diversified Banking Inst,BANK OF AMERICA CORP,true,2026-06-13 22:32:43.945
+57,5052,BALL,US,SMART,NYSE,USD,,Industrial,Packaging&Containers,Containers-Metal/Glass,BALL CORP,true,2026-06-13 22:32:43.945
+58,8111188,BAX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,BAXTER INTERNATIONAL INC.,true,2026-06-13 22:32:43.945
+59,4817,BBY,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Consumer Electron,BEST BUY CO INC,true,2026-06-13 22:32:43.945
+60,4886,BDX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Drug Delivery Systems,BECTON DICKINSON AND CO,true,2026-06-13 22:32:43.945
+61,4906,BEN,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,FRANKLIN RESOURCES INC,true,2026-06-13 22:32:43.945
+62,4931,BF B,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Wine/Spirits,BROWN-FORMAN CORP-CLASS B,true,2026-06-13 22:32:43.945
+63,663174498,BG,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Agriculture,Agricultural Operations,BUNGE GLOBAL SA,true,2026-06-13 22:32:43.945
+64,26734397,BIIB,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,BIOGEN INC,true,2026-06-13 22:32:43.945
+65,308728373,BKNG,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Services,BOOKING HOLDINGS INC,true,2026-06-13 22:32:43.945
+66,281316445,BKR,US,SMART,NASDAQ,USD,,Energy,Oil&Gas Services,Oil-Field Services,BAKER HUGHES CO,true,2026-06-13 22:32:43.945
+67,34851874,BLDR,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg&Construct Prod-Misc,BUILDERS FIRSTSOURCE INC,true,2026-06-13 22:32:43.945
+68,729193719,BLK,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,BLACKROCK INC,true,2026-06-13 22:32:43.945
+69,5111,BMY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,BRISTOL-MYERS SQUIBB CO,true,2026-06-13 22:32:43.945
+70,44986804,BNY,US,SMART,NYSE,USD,,Financial,Banks,Fiduciary Banks,BANK OF NEW YORK MELLON CORP,true,2026-06-13 22:32:43.945
+71,43523793,BR,US,SMART,NYSE,USD,,Technology,Software,Data Processing/Mgmt,BROADRIDGE FINANCIAL SOLUTIO,true,2026-06-13 22:32:43.945
+72,72063691,BRK B,US,SMART,NYSE,USD,,Financial,Insurance,Property/Casualty Ins,BERKSHIRE HATHAWAY INC-CL B,true,2026-06-13 22:32:43.945
+73,6607613,BRO,US,SMART,NYSE,USD,,Financial,Insurance,Insurance Brokers,BROWN & BROWN INC,true,2026-06-13 22:32:43.945
+74,5270,BSX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Instruments,BOSTON SCIENTIFIC CORP,true,2026-06-13 22:32:43.945
+75,372834689,BX,US,SMART,NYSE,USD,,Financial,Private Equity,Private Equity,BLACKSTONE INC,true,2026-06-13 22:32:43.945
+76,5021340,BXP,US,SMART,NYSE,USD,,Financial,REITS,REITS-Office Property,BXP INC,true,2026-06-13 22:32:43.945
+77,87335484,C,US,SMART,NYSE,USD,,Financial,Banks,Diversified Banking Inst,CITIGROUP INC,true,2026-06-13 22:32:43.945
+78,5402,CAG,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Misc/Diversified,CONAGRA BRANDS INC,true,2026-06-13 22:32:43.945
+79,5407,CAH,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Whsle Drug Dist,CARDINAL HEALTH INC,true,2026-06-13 22:32:43.945
+80,410755397,CARR,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Air&Heating,CARRIER GLOBAL CORP,true,2026-06-13 22:32:43.945
+81,267265,CASY,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Convenience Store,CASEY'S GENERAL STORES INC,true,2026-06-13 22:32:43.945
+82,5437,CAT,US,SMART,NYSE,USD,,Industrial,Machinery-Constr&Mining,Machinery-Constr&Mining,CATERPILLAR INC,true,2026-06-13 22:32:43.945
+83,218939694,CB,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,CHUBB LTD,true,2026-06-13 22:32:43.945
+84,76227954,CBOE,US,SMART,BATS,USD,,Financial,Diversified Finan Serv,Finance-Other Services,CBOE GLOBAL MARKETS INC,true,2026-06-13 22:32:43.945
+85,95514904,CBRE,US,SMART,NYSE,USD,,Financial,Real Estate,Real Estate Mgmnt/Servic,CBRE GROUP INC - A,true,2026-06-13 22:32:43.945
+86,234647242,CCEP,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Non-alcoholic,COCA-COLA EUROPACIFIC PARTNE,true,2026-06-13 22:32:43.945
+87,176571182,CCI,US,SMART,NYSE,USD,,Financial,REITS,REITS-Diversified,CROWN CASTLE INC,true,2026-06-13 22:32:43.945
+88,878372298,CCL,US,SMART,NYSE,USD,,"Consumer, Cyclical",Leisure Time,Cruise Lines,CARNIVAL CORP LTD,true,2026-06-13 22:32:43.945
+89,5552,CDNS,US,SMART,NASDAQ,USD,,Technology,Software,Computer Aided Design,CADENCE DESIGN SYS INC,true,2026-06-13 22:32:43.945
+90,130432552,CDW,US,SMART,NASDAQ,USD,,Communications,Internet,E-Services/Consulting,CDW CORP/DE,true,2026-06-13 22:32:43.945
+91,538132976,CEG,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Generation,CONSTELLATION ENERGY,true,2026-06-13 22:32:43.945
+92,35447205,CF,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Agricultural Chemicals,CF INDUSTRIES HOLDINGS INC,true,2026-06-13 22:32:43.945
+93,167955370,CFG,US,SMART,NYSE,USD,,Financial,Banks,Commer Banks-Eastern US,CITIZENS FINANCIAL GROUP,true,2026-06-13 22:32:43.945
+94,5651,CHD,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Household Products/Wares,Soap&Cleaning Prepar,CHURCH & DWIGHT CO INC,true,2026-06-13 22:32:43.945
+95,36320731,CHRW,US,SMART,NASDAQ,USD,,Industrial,Transportation,Transport-Services,C.H. ROBINSON WORLDWIDE INC,true,2026-06-13 22:32:43.945
+96,233674866,CHTR,US,SMART,NASDAQ,USD,,Communications,Media,Cable/Satellite TV,CHARTER COMMUNICATIONS INC-A,true,2026-06-13 22:32:43.945
+97,346403540,CI,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-HMO,THE CIGNA GROUP,true,2026-06-13 22:32:43.945
+98,41045553,CIEN,US,SMART,NYSE,USD,,Communications,Telecommunications,Telecommunication Equip,CIENA CORP,true,2026-06-13 22:32:43.945
+99,267661,CINF,US,SMART,NASDAQ,USD,,Financial,Insurance,Multi-line Insurance,CINCINNATI FINANCIAL CORP,true,2026-06-13 22:32:43.945
+100,5749,CL,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Cosmetics/Personal Care,Cosmetics&Toiletries,COLGATE-PALMOLIVE CO,true,2026-06-13 22:32:43.945
+101,5794,CLX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Household Products/Wares,Consumer Products-Misc,CLOROX COMPANY,true,2026-06-13 22:32:43.945
+102,267748,CMCSA,US,SMART,NASDAQ,USD,,Communications,Media,Cable/Satellite TV,COMCAST CORP-CLASS A,true,2026-06-13 22:32:43.945
+103,45127739,CME,US,SMART,NASDAQ,USD,,Financial,Diversified Finan Serv,Finance-Other Services,CME GROUP INC,true,2026-06-13 22:32:43.945
+104,37655664,CMG,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,CHIPOTLE MEXICAN GRILL INC,true,2026-06-13 22:32:43.945
+105,6207,CMI,US,SMART,NYSE,USD,,"Consumer, Cyclical",Auto Manufacturers,Auto-Med&Heavy Duty Trks,CUMMINS INC,true,2026-06-13 22:32:43.945
+106,5840,CMS,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,CMS ENERGY CORP,true,2026-06-13 22:32:43.945
+107,13878278,CNC,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-HMO,CENTENE CORP,true,2026-06-13 22:32:43.945
+108,8093,CNP,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,CENTERPOINT ENERGY INC,true,2026-06-13 22:32:43.945
+109,5941,COF,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Credit Card,CAPITAL ONE FINANCIAL CORP,true,2026-06-13 22:32:43.945
+110,584127832,COHR,US,SMART,NYSE,USD,,Industrial,Electronics,Lasers-Syst/Components,COHERENT CORP,true,2026-06-13 22:32:43.945
+111,481691285,COIN,US,SMART,NASDAQ,USD,,Financial,Diversified Finan Serv,Finance-Other Services,COINBASE GLOBAL INC -CLASS A,true,2026-06-13 22:32:43.945
+112,685217803,COO,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,COOPER COS INC/THE,true,2026-06-13 22:32:43.945
+113,10885,COP,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,CONOCOPHILLIPS,true,2026-06-13 22:32:43.945
+114,1714996,COR,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Whsle Drug Dist,CENCORA INC,true,2026-06-13 22:32:43.945
+115,272997,COST,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Discount,COSTCO WHOLESALE CORP,true,2026-06-13 22:32:43.945
+116,691994611,CPAY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,CORPAY INC,true,2026-06-13 22:32:43.945
+117,5980,CPB,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Food,Food-Misc/Diversified,THE CAMPBELL'S COMPANY,true,2026-06-13 22:32:43.945
+118,4728523,CPRT,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Distribution/Wholesale,Distribution/Wholesale,COPART INC,true,2026-06-13 22:32:43.945
+119,6004,CPT,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,CAMDEN PROPERTY TRUST,true,2026-06-13 22:32:43.945
+120,655276609,CRH,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Cement/Aggreg,CRH PLC,true,2026-06-13 22:32:43.945
+121,2730877,CRL,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical Labs&Testing Srv,CHARLES RIVER LABORATORIES,true,2026-06-13 22:32:43.945
+122,29624264,CRM,US,SMART,NYSE,USD,,Technology,Software,Enterprise Software/Serv,SALESFORCE INC,true,2026-06-13 22:32:43.945
+123,370757467,CRWD,US,SMART,NASDAQ,USD,,Technology,Computers,Computer Data Security,CROWDSTRIKE HOLDINGS INC - A,true,2026-06-13 22:32:43.945
+124,268084,CSCO,US,SMART,NASDAQ,USD,,Communications,Telecommunications,Networking Products,CISCO SYSTEMS INC,true,2026-06-13 22:32:43.945
+125,6726677,CSGP,US,SMART,NASDAQ,USD,,Financial,Real Estate,Real Estate Mgmnt/Servic,COSTAR GROUP INC,true,2026-06-13 22:32:43.945
+126,6150,CSX,US,SMART,NASDAQ,USD,,Industrial,Transportation,Transport-Rail,CSX CORP,true,2026-06-13 22:32:43.945
+127,268149,CTAS,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Services,CINTAS CORP,true,2026-06-13 22:32:43.945
+128,4728759,CTSH,US,SMART,NASDAQ,USD,,Technology,Computers,Computer Services,COGNIZANT TECH SOLUTIONS-A,true,2026-06-13 22:32:43.945
+129,366239371,CTVA,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Biotechnology,Agricultural Biotech,CORTEVA INC,true,2026-06-13 22:32:43.945
+130,274144952,CVNA,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Automobile,CARVANA CO,true,2026-06-13 22:32:43.945
+131,2585769,CVS,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Pharmacy Services,CVS HEALTH CORP,true,2026-06-13 22:32:43.945
+132,5684,CVX,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Integrated,CHEVRON CORP,true,2026-06-13 22:32:43.945
+133,6327,D,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,DOMINION ENERGY INC,true,2026-06-13 22:32:43.945
+134,44001820,DAL,US,SMART,NYSE,USD,,"Consumer, Cyclical",Airlines,Airlines,DELTA AIR LINES INC.,true,2026-06-13 22:32:43.945
+135,459309417,DASH,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Services,DOORDASH INC - A,true,2026-06-13 22:32:43.945
+136,365921621,DD,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Diversified,DUPONT DE NEMOURS INC,true,2026-06-13 22:32:43.945
+137,383858515,DDOG,US,SMART,NASDAQ,USD,,Technology,Software,Computer Software,DATADOG INC - CLASS A,true,2026-06-13 22:32:43.945
+138,6393,DE,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-Farm,DEERE & CO,true,2026-06-13 22:32:43.945
+139,268376,DECK,US,SMART,NYSE,USD,,"Consumer, Cyclical",Apparel,Apparel Manufacturers,DECKERS OUTDOOR CORP,true,2026-06-13 22:32:43.945
+140,346218218,DELL,US,SMART,NYSE,USD,,Technology,Computers,Computers,DELL TECHNOLOGIES -C,true,2026-06-13 22:32:43.945
+141,70212228,DG,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Discount,DOLLAR GENERAL CORP,true,2026-06-13 22:32:43.945
+142,2459465,DGX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical Labs&Testing Srv,QUEST DIAGNOSTICS INC,true,2026-06-13 22:32:43.945
+143,268627,DHI,US,SMART,NYSE,USD,,"Consumer, Cyclical",Home Builders,Bldg-Residential/Commer,DR HORTON INC,true,2026-06-13 22:32:43.945
+144,6442,DHR,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Equipment,DANAHER CORP,true,2026-06-13 22:32:43.945
+145,6459,DIS,US,SMART,NYSE,USD,,Communications,Media,Multimedia,WALT DISNEY CO/THE,true,2026-06-13 22:32:43.945
+146,31832526,DLR,US,SMART,NYSE,USD,,Financial,REITS,REITS-Diversified,DIGITAL REALTY TRUST INC.,true,2026-06-13 22:32:43.945
+147,49388062,DLTR,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Discount,DOLLAR TREE INC,true,2026-06-13 22:32:43.945
+148,389700396,DOC,US,SMART,NYSE,USD,,Financial,REITS,REITS-Health Care,HEALTHPEAK PROPERTIES INC,true,2026-06-13 22:32:43.945
+149,6517,DOV,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-Pumps,DOVER CORP,true,2026-06-13 22:32:43.945
+150,356576040,DOW,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Diversified,DOW INC,true,2026-06-13 22:32:43.945
+151,29831612,DPZ,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,DOMINO'S PIZZA INC,true,2026-06-13 22:32:43.945
+152,661440,DRI,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,DARDEN RESTAURANTS INC,true,2026-06-13 22:32:43.945
+153,6585,DTE,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,DTE ENERGY COMPANY,true,2026-06-13 22:32:43.945
+154,110176011,DUK,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,DUKE ENERGY CORP,true,2026-06-13 22:32:43.945
+155,1035459,DVA,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Dialysis Centers,DAVITA INC,true,2026-06-13 22:32:43.945
+156,754442,DVN,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,DEVON ENERGY CORP,true,2026-06-13 22:32:43.945
+157,33837089,DXCM,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Drug Delivery Systems,DEXCOM INC,true,2026-06-13 22:32:43.945
+158,268995,EA,US,SMART,NASDAQ,USD,,Technology,Software,Entertainment Software,ELECTRONIC ARTS INC,true,2026-06-13 22:32:43.945
+159,4347086,EBAY,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Products,EBAY INC,true,2026-06-13 22:32:43.945
+160,6682,ECL,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Specialty,ECOLAB INC,true,2026-06-13 22:32:43.945
+161,6691,ED,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Distribution,CONSOLIDATED EDISON INC,true,2026-06-13 22:32:43.945
+162,6735,EFX,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,EQUIFAX INC,true,2026-06-13 22:32:43.945
+163,6477725,EG,US,SMART,NYSE,USD,,Financial,Insurance,Reinsurance,EVEREST GROUP LTD,true,2026-06-13 22:32:43.945
+164,11899,EIX,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,EDISON INTL,true,2026-06-13 22:32:43.945
+165,1448477,EL,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Cosmetics/Personal Care,Cosmetics&Toiletries,ESTEE LAUDER COMPANIES-CL A,true,2026-06-13 22:32:43.945
+166,173962302,ELV,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-HMO,ELEVANCE HEALTH INC,true,2026-06-13 22:32:43.945
+167,6820,EME,US,SMART,NYSE,USD,,Industrial,Engineering&Construction,Building&Construct-Misc,EMCOR GROUP INC,true,2026-06-13 22:32:43.945
+168,6842,EMR,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Measur Instr,EMERSON ELECTRIC CO,true,2026-06-13 22:32:43.945
+169,6890,EOG,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,EOG RESOURCES INC,true,2026-06-13 22:32:43.945
+170,181764593,EQIX,US,SMART,NASDAQ,USD,,Financial,REITS,REITS-Diversified,EQUINIX INC,true,2026-06-13 22:32:43.945
+171,6917,EQR,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,EQUITY RESIDENTIAL,true,2026-06-13 22:32:43.945
+172,57698865,EQT,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,EQT CORP,true,2026-06-13 22:32:43.945
+173,4730254,ERIE,US,SMART,NASDAQ,USD,,Financial,Insurance,Property/Casualty Ins,ERIE INDEMNITY COMPANY-CL A,true,2026-06-13 22:32:43.945
+174,182880167,ES,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Distribution,EVERSOURCE ENERGY,true,2026-06-13 22:32:43.945
+175,6946,ESS,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,ESSEX PROPERTY TRUST INC,true,2026-06-13 22:32:43.945
+176,118017869,ETN,US,SMART,NYSE,USD,,Industrial,Electrical Compo&Equip,Power Conv/Supply Equip,EATON CORP PLC,true,2026-06-13 22:32:43.945
+177,6969,ETR,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,ENTERGY CORP,true,2026-06-13 22:32:43.945
+178,320106069,EVRG,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Integrated,EVERGY INC,true,2026-06-13 22:32:43.945
+179,8101142,EW,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Instruments,EDWARDS LIFESCIENCES CORP,true,2026-06-13 22:32:43.945
+180,11000,EXC,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Distribution,EXELON CORP,true,2026-06-13 22:32:43.945
+181,470458975,EXE,US,SMART,NASDAQ,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,EXPAND ENERGY CORP,true,2026-06-13 22:32:43.945
+182,269082,EXPD,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Services,EXPEDITORS INTL WASH INC,true,2026-06-13 22:32:43.945
+183,98542021,EXPE,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Services,EXPEDIA GROUP INC,true,2026-06-13 22:32:43.945
+184,30351205,EXR,US,SMART,NYSE,USD,,Financial,REITS,REITS-Storage,EXTRA SPACE STORAGE INC,true,2026-06-13 22:32:43.945
+185,9599491,F,US,SMART,NYSE,USD,,"Consumer, Cyclical",Auto Manufacturers,Auto-Cars/Light Trucks,FORD MOTOR CO,true,2026-06-13 22:32:43.945
+186,115441080,FANG,US,SMART,NASDAQ,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,DIAMONDBACK ENERGY INC,true,2026-06-13 22:32:43.945
+187,269120,FAST,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Distribution/Wholesale,Distribution/Wholesale,FASTENAL CO,true,2026-06-13 22:32:43.945
+188,7089,FCX,US,SMART,NYSE,USD,,Basic Materials,Mining,Metal-Copper,FREEPORT-MCMORAN INC,true,2026-06-13 22:32:43.945
+189,1847145,FDS,US,SMART,NYSE,USD,,Communications,Media,Multimedia,FACTSET RESEARCH SYSTEMS INC,true,2026-06-13 22:32:43.945
+190,5100583,FDX,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Services,FEDEX CORPORATION,true,2026-06-13 22:32:43.945
+191,884688186,FDXF,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Truck,FEDEX FREIGHT HOLDING CO,true,2026-06-13 22:32:43.945
+192,3265376,FE,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,FIRSTENERGY CORP,true,2026-06-13 22:32:43.945
+193,702304865,FER,US,SMART,NASDAQ,USD,,Industrial,Engineering&Construction,Building-Heavy Construct,FERROVIAL NV,true,2026-06-13 22:32:43.945
+194,6248713,FFIV,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Infrastr Sftwr,F5 INC,true,2026-06-13 22:32:43.945
+195,269280,FICO,US,SMART,NYSE,USD,,Technology,Software,Data Processing/Mgmt,FAIR ISAAC CORP,true,2026-06-13 22:32:43.945
+196,37866641,FIS,US,SMART,NYSE,USD,,Technology,Software,Data Processing/Mgmt,FIDELITY NATIONAL INFO SERV,true,2026-06-13 22:32:43.945
+197,269315,FISV,US,SMART,NASDAQ,USD,,Technology,Software,Data Processing/Mgmt,FISERV INC,true,2026-06-13 22:32:43.945
+198,269318,FITB,US,SMART,NYSE,USD,,Financial,Banks,Super-Regional Banks-US,FIFTH THIRD BANCORP,true,2026-06-13 22:32:43.945
+199,6607708,FIX,US,SMART,NYSE,USD,,Industrial,Engineering&Construction,Building&Construct-Misc,COMFORT SYSTEMS USA INC,true,2026-06-13 22:32:43.945
+200,356858007,FOX,US,SMART,NASDAQ,USD,,Communications,Media,Broadcast Serv/Program,FOX CORP - CLASS B,true,2026-06-13 22:32:43.945
+201,356858008,FOXA,US,SMART,NASDAQ,USD,,Communications,Media,Broadcast Serv/Program,FOX CORP - CLASS A,true,2026-06-13 22:32:43.945
+202,535271307,FRT,US,SMART,NYSE,USD,,Financial,REITS,REITS-Shopping Centers,FEDERAL REALTY INVS TRUST,true,2026-06-13 22:32:43.945
+203,41622169,FSLR,US,SMART,NASDAQ,USD,,Energy,Energy-Alternate Sources,Energy-Alternate Sources,FIRST SOLAR INC,true,2026-06-13 22:32:43.945
+204,70236214,FTNT,US,SMART,NASDAQ,USD,,Technology,Computers,Computer Data Security,FORTINET INC,true,2026-06-13 22:32:43.945
+205,236074120,FTV,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Measur Instr,FORTIVE CORP,true,2026-06-13 22:32:43.945
+206,7496,GD,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense,GENERAL DYNAMICS CORP,true,2026-06-13 22:32:43.945
+207,188986978,GDDY,US,SMART,NYSE,USD,,Communications,Internet,Web Hosting/Design,GODADDY INC - CLASS A,true,2026-06-13 22:32:43.945
+237,8153,HRL,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Meat Products,HORMEL FOODS CORP,true,2026-06-13 22:32:43.945
+238,3655640,HSIC,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Whsle Drug Dist,HENRY SCHEIN INC,true,2026-06-13 22:32:43.945
+239,8057,HST,US,SMART,NASDAQ,USD,,Financial,REITS,REITS-Hotels,HOST HOTELS & RESORTS INC,true,2026-06-13 22:32:43.945
+240,8199,HSY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Confectionery,HERSHEY CO/THE,true,2026-06-13 22:32:43.945
+241,216386790,HUBB,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Compo-Misc,HUBBELL INC,true,2026-06-13 22:32:43.945
+242,8251,HUM,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-HMO,HUMANA INC,true,2026-06-13 22:32:43.945
+243,403121976,HWM,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense-Equip,HOWMET AEROSPACE INC,true,2026-06-13 22:32:43.945
+244,43645865,IBKR,US,SMART,NASDAQ,USD,,Financial,Diversified Finan Serv,Finance-Invest Bnkr/Brkr,INTERACTIVE BROKERS GRO-CL A,true,2026-06-13 22:32:43.945
+245,8314,IBM,US,SMART,NYSE,USD,,Technology,Computers,Computer Services,INTL BUSINESS MACHINES CORP,true,2026-06-13 22:32:43.945
+246,136370275,ICE,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Other Services,INTERCONTINENTAL EXCHANGE IN,true,2026-06-13 22:32:43.945
+247,270413,IDXX,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Kits,IDEXX LABORATORIES INC,true,2026-06-13 22:32:43.945
+248,8377,IEX,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-General Indust,IDEX CORP,true,2026-06-13 22:32:43.945
+249,8385,IFF,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Specialty,INTL FLAVORS & FRAGRANCES,true,2026-06-13 22:32:43.945
+250,4369855,INCY,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,INCYTE CORP,true,2026-06-13 22:32:43.945
+251,84889699,INSM,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,INSMED INC,true,2026-06-13 22:32:43.945
+252,270639,INTC,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,INTEL CORP,true,2026-06-13 22:32:43.945
+253,270662,INTU,US,SMART,NASDAQ,USD,,Technology,Software,Applications Software,INTUIT INC,true,2026-06-13 22:32:43.945
+254,264405214,INVH,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,INVITATION HOMES INC,true,2026-06-13 22:32:43.945
+255,8511,IP,US,SMART,NYSE,USD,,Basic Materials,Forest Products&Paper,Paper&Related Products,INTERNATIONAL PAPER CO,true,2026-06-13 22:32:43.945
+256,295757261,IQV,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical Labs&Testing Srv,IQVIA HOLDINGS INC,true,2026-06-13 22:32:43.945
+257,404509190,IR,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-Pumps,INGERSOLL-RAND INC,true,2026-06-13 22:32:43.945
+258,180350774,IRM,US,SMART,NYSE,USD,,Financial,REITS,REITS-Storage,IRON MOUNTAIN INC,true,2026-06-13 22:32:43.945
+259,9063285,ISRG,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Instruments,INTUITIVE SURGICAL INC,true,2026-06-13 22:32:43.945
+260,4457287,IT,US,SMART,NYSE,USD,,Technology,Computers,Computer Services,GARTNER INC,true,2026-06-13 22:32:43.945
+261,8620,ITW,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Diversified Manufact Op,ILLINOIS TOOL WORKS,true,2026-06-13 22:32:43.945
+262,47550606,IVZ,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,INVESCO LTD,true,2026-06-13 22:32:43.945
+263,582332987,J,US,SMART,NYSE,USD,,Industrial,Engineering&Construction,Engineering/R&D Services,JACOBS SOLUTIONS INC,true,2026-06-13 22:32:43.945
+264,270825,JBHT,US,SMART,NASDAQ,USD,,Industrial,Transportation,Transport-Truck,HUNT (JB) TRANSPRT SVCS INC,true,2026-06-13 22:32:43.945
+265,4457282,JBL,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Compo-Misc,JABIL INC,true,2026-06-13 22:32:43.945
+266,244164913,JCI,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Air&Heating,JOHNSON CONTROLS INTERNATION,true,2026-06-13 22:32:43.945
+267,270869,JKHY,US,SMART,NASDAQ,USD,,Technology,Software,Data Processing/Mgmt,JACK HENRY & ASSOCIATES INC,true,2026-06-13 22:32:43.945
+268,8719,JNJ,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,JOHNSON & JOHNSON,true,2026-06-13 22:32:43.945
+269,1520593,JPM,US,SMART,NYSE,USD,,Financial,Banks,Diversified Banking Inst,JPMORGAN CHASE & CO,true,2026-06-13 22:32:43.945
+270,324057162,KDP,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Non-alcoholic,KEURIG DR PEPPER INC,true,2026-06-13 22:32:43.945
+271,8809,KEY,US,SMART,NYSE,USD,,Financial,Banks,Super-Regional Banks-US,KEYCORP,true,2026-06-13 22:32:43.945
+272,170167160,KEYS,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Measur Instr,KEYSIGHT TECHNOLOGIES IN,true,2026-06-13 22:32:43.945
+273,199169586,KHC,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Food,Food-Misc/Diversified,KRAFT HEINZ CO/THE,true,2026-06-13 22:32:43.945
+274,8845,KIM,US,SMART,NYSE,USD,,Financial,REITS,REITS-Shopping Centers,KIMCO REALTY CORP,true,2026-06-13 22:32:43.945
+275,321328198,KKR,US,SMART,NYSE,USD,,Financial,Private Equity,Private Equity,KKR & CO INC,true,2026-06-13 22:32:43.945
+276,270957,KLAC,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semiconductor Equipment,KLA CORP,true,2026-06-13 22:32:43.945
+277,8864,KMB,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Household Products/Wares,Consumer Products-Misc,KIMBERLY-CLARK CORP,true,2026-06-13 22:32:43.945
+278,83975037,KMI,US,SMART,NYSE,USD,,Energy,Pipelines,Pipelines,KINDER MORGAN INC,true,2026-06-13 22:32:43.945
+279,8894,KO,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Non-alcoholic,COCA-COLA CO/THE,true,2026-06-13 22:32:43.945
+280,8908,KR,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Retail,KROGER CO,true,2026-06-13 22:32:43.945
+281,629043863,KVUE,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Cosmetics/Personal Care,Cosmetics&Toiletries,KENVUE INC,true,2026-06-13 22:32:43.945
+282,9252,L,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,LOEWS CORP,true,2026-06-13 22:32:43.945
+283,134280621,LDOS,US,SMART,NYSE,USD,,Technology,Computers,Computer Services,LEIDOS HOLDINGS INC,true,2026-06-13 22:32:43.945
+284,9091,LEN,US,SMART,NYSE,USD,,"Consumer, Cyclical",Home Builders,Bldg-Residential/Commer,LENNAR CORP-A,true,2026-06-13 22:32:43.945
+285,703660032,LH,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical Labs&Testing Srv,LABCORP HOLDINGS INC,true,2026-06-13 22:32:43.945
+286,371886040,LHX,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense-Equip,L3HARRIS TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+287,6608113,LII,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Air&Heating,LENNOX INTERNATIONAL INC,true,2026-06-13 22:32:43.945
+288,617155599,LIN,US,SMART,NASDAQ,USD,,Basic Materials,Chemicals,Industrial Gases,LINDE PLC,true,2026-06-13 22:32:43.945
+289,201113895,LITE,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Other,LUMENTUM HOLDINGS INC,true,2026-06-13 22:32:43.945
+290,9160,LLY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,ELI LILLY & CO,true,2026-06-13 22:32:43.945
+291,611191,LMT,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense,LOCKHEED MARTIN CORP,true,2026-06-13 22:32:43.945
+292,5026984,LNT,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Integrated,ALLIANT ENERGY CORP,true,2026-06-13 22:32:43.945
+293,9199,LOW,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Building Products,LOWE'S COS INC,true,2026-06-13 22:32:43.945
+294,732440574,LRCX,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semiconductor Equipment,LAM RESEARCH CORP,true,2026-06-13 22:32:43.945
+295,45157951,LULU,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Apparel/Shoe,LULULEMON ATHLETICA INC,true,2026-06-13 22:32:43.945
+296,9282,LUV,US,SMART,NYSE,USD,,"Consumer, Cyclical",Airlines,Airlines,SOUTHWEST AIRLINES CO,true,2026-06-13 22:32:43.945
+297,32602412,LVS,US,SMART,NYSE,USD,,"Consumer, Cyclical",Lodging,Casino Hotels,LAS VEGAS SANDS CORP,true,2026-06-13 22:32:43.945
+298,74866700,LYB,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Diversified,LYONDELLBASELL INDU-CL A,true,2026-06-13 22:32:43.945
+299,37511786,LYV,US,SMART,NYSE,USD,,"Consumer, Cyclical",Entertainment,Theaters,LIVE NATION ENTERTAINMENT IN,true,2026-06-13 22:32:43.945
+300,38685693,MA,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Credit Card,MASTERCARD INC - A,true,2026-06-13 22:32:43.945
+301,9317,MAA,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,MID-AMERICA APARTMENT COMM,true,2026-06-13 22:32:43.945
+302,9358,MAR,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Lodging,Hotels&Motels,MARRIOTT INTERNATIONAL -CL A,true,2026-06-13 22:32:43.945
+303,9360,MAS,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Wood,MASCO CORP,true,2026-06-13 22:32:43.945
+304,9408,MCD,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,MC DONALD'S-CORP,true,2026-06-13 22:32:43.945
+305,271568,MCHP,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,MICROCHIP TECHNOLOGY INC,true,2026-06-13 22:32:43.945
+306,9657,MCK,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Whsle Drug Dist,MCKESSON CORP,true,2026-06-13 22:32:43.945
+307,6497,MCO,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,MOODY'S CORP,true,2026-06-13 22:32:43.945
+308,113599091,MDLZ,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Food,Food-Confectionery,MONDELEZ INTERNATIONAL INC-A,true,2026-06-13 22:32:43.945
+309,181387075,MDT,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,MEDTRONIC PLC,true,2026-06-13 22:32:43.945
+310,45602025,MELI,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Services,MERCADOLIBRE INC,true,2026-06-13 22:32:43.945
+311,8093509,MET,US,SMART,NYSE,USD,,Financial,Insurance,Multi-line Insurance,METLIFE INC,true,2026-06-13 22:32:43.945
+312,107113386,META,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Content-Entmnt,META PLATFORMS INC-CLASS A,true,2026-06-13 22:32:43.945
+313,9560,MGM,US,SMART,NYSE,USD,,"Consumer, Cyclical",Lodging,Casino Hotels,MGM RESORTS INTERNATIONAL,true,2026-06-13 22:32:43.945
+314,271556,MKC,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Misc/Diversified,MCCORMICK & CO-NON VTG SHRS,true,2026-06-13 22:32:43.945
+315,9690,MLM,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Cement/Aggreg,MARTIN MARIETTA MATERIALS,true,2026-06-13 22:32:43.945
+316,9720,MMM,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Diversified Manufact Op,"3M CO",true,2026-06-13 22:32:43.945
+317,196986496,MNST,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Non-alcoholic,MONSTER BEVERAGE CORP,true,2026-06-13 22:32:43.945
+318,9769,MO,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Agriculture,Tobacco,ALTRIA GROUP INC,true,2026-06-13 22:32:43.945
+319,88292752,MOS,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Agricultural Chemicals,MOSAIC CO/THE,true,2026-06-13 22:32:43.945
+320,89495776,MPC,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Refining&Marketing,MARATHON PETROLEUM CORP,true,2026-06-13 22:32:43.945
+321,32106121,MPWR,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,MONOLITHIC POWER SYSTEMS INC,true,2026-06-13 22:32:43.945
+322,70101545,MRK,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,MERCK & CO INC,true,2026-06-13 22:32:43.945
+323,344809106,MRNA,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,MODERNA INC,true,2026-06-13 22:32:43.945
+324,9705,MRSH,US,SMART,NYSE,USD,,Financial,Insurance,Insurance Brokers,MARSH & MCLENNAN COS,true,2026-06-13 22:32:43.945
+325,483492393,MRVL,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,MARVELL TECHNOLOGY INC,true,2026-06-13 22:32:43.945
+326,2841574,MS,US,SMART,NYSE,USD,,Financial,Banks,Diversified Banking Inst,MORGAN STANLEY,true,2026-06-13 22:32:43.945
+327,47101335,MSCI,US,SMART,NYSE,USD,,Technology,Software,Decision Support Softwar,MSCI INC,true,2026-06-13 22:32:43.945
+328,272093,MSFT,US,SMART,NASDAQ,USD,,Technology,Software,Applications Software,MICROSOFT CORP,true,2026-06-13 22:32:43.945
+329,81581011,MSI,US,SMART,NYSE,USD,,Communications,Telecommunications,Wireless Equipment,MOTOROLA SOLUTIONS INC,true,2026-06-13 22:32:43.945
+330,272110,MSTR,US,SMART,NASDAQ,USD,,Technology,Software,Enterprise Software/Serv,STRATEGY INC,true,2026-06-13 22:32:43.945
+331,2585323,MTB,US,SMART,NYSE,USD,,Financial,Banks,Commer Banks-Eastern US,M & T BANK CORP,true,2026-06-13 22:32:43.945
+332,6477908,MTD,US,SMART,NYSE,USD,,Industrial,Electronics,Instruments-Controls,METTLER-TOLEDO INTERNATIONAL,true,2026-06-13 22:32:43.945
+333,9939,MU,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,MICRON TECHNOLOGY INC,true,2026-06-13 22:32:43.945
+334,120643512,NCLH,US,SMART,NYSE,USD,,"Consumer, Cyclical",Leisure Time,Cruise Lines,NORWEGIAN CRUISE LINE HOLDIN,true,2026-06-13 22:32:43.945
+335,29380756,NDAQ,US,SMART,NASDAQ,USD,,Financial,Diversified Finan Serv,Finance-Other Services,NASDAQ INC,true,2026-06-13 22:32:43.945
+336,272314,NDSN,US,SMART,NASDAQ,USD,,Industrial,Machinery-Diversified,Machinery-General Indust,NORDSON CORP,true,2026-06-13 22:32:43.945
+337,75960201,NEE,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,NEXTERA ENERGY INC,true,2026-06-13 22:32:43.945
+338,10174,NEM,US,SMART,NYSE,USD,,Basic Materials,Mining,Gold Mining,NEWMONT CORP,true,2026-06-13 22:32:43.945
+339,15124833,NFLX,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Content-Entmnt,NETFLIX INC,true,2026-06-13 22:32:43.945
+340,10260,NI,US,SMART,NYSE,USD,,Utilities,Gas,Gas-Distribution,NISOURCE INC,true,2026-06-13 22:32:43.945
+341,10291,NKE,US,SMART,NYSE,USD,,"Consumer, Cyclical",Apparel,Athletic Footwear,NIKE INC -CL B,true,2026-06-13 22:32:43.945
+342,10376,NOC,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense,NORTHROP GRUMMAN CORP,true,2026-06-13 22:32:43.945
+343,109911821,NOW,US,SMART,NYSE,USD,,Technology,Software,Applications Software,SERVICENOW INC,true,2026-06-13 22:32:43.945
+344,10188791,NRG,US,SMART,NYSE,USD,,Utilities,Electric,Independ Power Producer,NRG ENERGY INC,true,2026-06-13 22:32:43.945
+345,10497,NSC,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Rail,NORFOLK SOUTHERN CORP,true,2026-06-13 22:32:43.945
+346,49921110,NTAP,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Memory Devices,NETAPP INC,true,2026-06-13 22:32:43.945
+347,272565,NTRS,US,SMART,NASDAQ,USD,,Financial,Banks,Fiduciary Banks,NORTHERN TRUST CORP,true,2026-06-13 22:32:43.945
+348,10557,NUE,US,SMART,NYSE,USD,,Basic Materials,Iron/Steel,Steel-Producers,NUCOR CORP,true,2026-06-13 22:32:43.945
+349,4815747,NVDA,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,NVIDIA CORP,true,2026-06-13 22:32:43.945
+350,755864,NVR,US,SMART,NYSE,USD,,"Consumer, Cyclical",Home Builders,Bldg-Residential/Commer,NVR INC,true,2026-06-13 22:32:43.945
+351,129348130,NWS,US,SMART,NASDAQ,USD,,Communications,Media,Publishing-Newspapers,NEWS CORP - CLASS B,true,2026-06-13 22:32:43.945
+352,129348126,NWSA,US,SMART,NASDAQ,USD,,Communications,Media,Publishing-Newspapers,NEWS CORP - CLASS A,true,2026-06-13 22:32:43.945
+353,77791077,NXPI,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semicon Compo-Intg Circu,NXP SEMICONDUCTORS NV,true,2026-06-13 22:32:43.945
+354,10672,O,US,SMART,NYSE,USD,,Financial,REITS,REITS-Single Tenant,REALTY INCOME CORP,true,2026-06-13 22:32:43.945
+355,272667,ODFL,US,SMART,NASDAQ,USD,,Industrial,Transportation,Transport-Truck,OLD DOMINION FREIGHT LINE,true,2026-06-13 22:32:43.945
+357,10811,OMC,US,SMART,NYSE,USD,,Communications,Advertising,Advertising Agencies,OMNICOM GROUP,true,2026-06-13 22:32:43.945
+358,8677881,ON,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,ON SEMICONDUCTOR,true,2026-06-13 22:32:43.945
+359,272800,ORCL,US,SMART,NYSE,USD,,Technology,Software,Enterprise Software/Serv,ORACLE CORP,true,2026-06-13 22:32:43.945
+360,82457808,ORLY,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Auto Parts,O'REILLY AUTOMOTIVE INC,true,2026-06-13 22:32:43.945
+361,410755402,OTIS,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-General Indust,OTIS WORLDWIDE CORP,true,2026-06-13 22:32:43.945
+362,10880,OXY,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Explor&Prodtn,OCCIDENTAL PETROLEUM CORP,true,2026-06-13 22:32:43.945
+363,110619459,PANW,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Security,PALO ALTO NETWORKS INC,true,2026-06-13 22:32:43.945
+364,272942,PAYX,US,SMART,NASDAQ,USD,,Technology,Software,Data Processing/Mgmt,PAYCHEX INC,true,2026-06-13 22:32:43.945
+365,272992,PCAR,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Auto Manufacturers,Auto-Med&Heavy Duty Trks,PACCAR INC,true,2026-06-13 22:32:43.945
+366,2586035,PCG,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,P G & E CORP,true,2026-06-13 22:32:43.945
+356,10794,OKE,US,SMART,NYSE,USD,,Energy,Pipelines,Pipelines,ONEOK INC,true,2026-06-13 22:32:43.945
+367,326398585,PDD,US,SMART,NASDAQ,USD,,Communications,Internet,E-Commerce/Products,PDD HOLDINGS INC,true,2026-06-13 22:32:43.945
+368,11005,PEG,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,PUBLIC SERVICE ENTERPRISE GP,true,2026-06-13 22:32:43.945
+369,11017,PEP,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Beverages,Beverages-Non-alcoholic,PEPSICO INC,true,2026-06-13 22:32:43.945
+370,11031,PFE,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Drugs,PFIZER INC,true,2026-06-13 22:32:43.945
+371,11032,PFG,US,SMART,NASDAQ,USD,,Financial,Insurance,Life/Health Insurance,PRINCIPAL FINANCIAL GROUP,true,2026-06-13 22:32:43.945
+372,11054,PG,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Cosmetics/Personal Care,Cosmetics&Toiletries,PROCTER & GAMBLE CO/THE,true,2026-06-13 22:32:43.945
+373,11080,PGR,US,SMART,NYSE,USD,,Financial,Insurance,Property/Casualty Ins,PROGRESSIVE CORP,true,2026-06-13 22:32:43.945
+374,11094,PH,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Diversified Manufact Op,PARKER HANNIFIN CORP,true,2026-06-13 22:32:43.945
+375,11109,PHM,US,SMART,NYSE,USD,,"Consumer, Cyclical",Home Builders,Bldg-Residential/Commer,PULTEGROUP INC,true,2026-06-13 22:32:43.945
+376,7740411,PKG,US,SMART,NYSE,USD,,Industrial,Packaging&Containers,Containers-Paper/Plastic,PACKAGING CORP OF AMERICA,true,2026-06-13 22:32:43.945
+377,88819288,PLD,US,SMART,NYSE,USD,,Financial,REITS,REITS-Warehouse/Industr,PROLOGIS INC,true,2026-06-13 22:32:43.945
+378,444857009,PLTR,US,SMART,NASDAQ,USD,,Technology,Software,Enterprise Software/Serv,PALANTIR TECHNOLOGIES INC-A,true,2026-06-13 22:32:43.945
+379,49588376,PM,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Agriculture,Tobacco,PHILIP MORRIS INTERNATIONAL,true,2026-06-13 22:32:43.945
+380,11240,PNC,US,SMART,NYSE,USD,,Financial,Banks,Super-Regional Banks-US,PNC FINANCIAL SERVICES GROUP,true,2026-06-13 22:32:43.945
+381,153068487,PNR,US,SMART,NYSE,USD,,Industrial,Environmental Control,Water Treatment Systems,PENTAIR PLC,true,2026-06-13 22:32:43.945
+382,11257,PNW,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,PINNACLE WEST CAPITAL,true,2026-06-13 22:32:43.945
+383,44061838,PODD,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Patient Monitoring Equip,INSULET CORP,true,2026-06-13 22:32:43.945
+384,39195389,POOL,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Distribution/Wholesale,Distribution/Wholesale,POOL CORP,true,2026-06-13 22:32:43.945
+385,11295,PPG,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Diversified,PPG INDUSTRIES INC,true,2026-06-13 22:32:43.945
+386,661547,PPL,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,PPL CORP,true,2026-06-13 22:32:43.945
+387,13865082,PRU,US,SMART,NYSE,USD,,Financial,Insurance,Life/Health Insurance,PRUDENTIAL FINANCIAL INC,true,2026-06-13 22:32:43.945
+389,804144296,PSKY,US,SMART,NASDAQ,USD,,Communications,Media,Broadcast Serv/Program,PARAMOUNT SKYDANCE CL B,true,2026-06-13 22:32:43.945
+390,105669270,PSX,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Refining&Marketing,PHILLIPS 66,true,2026-06-13 22:32:43.945
+391,121507047,PTC,US,SMART,NASDAQ,USD,,Technology,Software,Applications Software,PTC INC,true,2026-06-13 22:32:43.945
+392,6608432,PWR,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Services,QUANTA SERVICES INC,true,2026-06-13 22:32:43.945
+393,199169591,PYPL,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,PAYPAL HOLDINGS INC,true,2026-06-13 22:32:43.945
+394,824788107,Q,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Chemicals-Specialty,QNITY ELECTRONICS INC,true,2026-06-13 22:32:43.945
+395,273544,QCOM,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semicon Compo-Intg Circu,QUALCOMM INC,true,2026-06-13 22:32:43.945
+404,11700,ROL,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Building-Maint&Service,ROLLINS INC,true,2026-06-13 22:32:43.945
+405,2585629,ROP,US,SMART,NASDAQ,USD,,Technology,Software,Applications Software,ROPER TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+406,273939,ROST,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Apparel/Shoe,ROSS STORES INC,true,2026-06-13 22:32:43.945
+407,6478024,RSG,US,SMART,NYSE,USD,,Industrial,Environmental Control,Non-hazardous Waste Disp,REPUBLIC SERVICES INC,true,2026-06-13 22:32:43.945
+408,415342104,RTX,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense,RTX CORP,true,2026-06-13 22:32:43.945
+409,6737,RVTY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Equipment,REVVITY INC,true,2026-06-13 22:32:43.945
+410,47965865,SATS,US,SMART,NASDAQ,USD,,Communications,Media,Cable/Satellite TV,ECHOSTAR CORP-A,true,2026-06-13 22:32:43.945
+411,262397910,SBAC,US,SMART,NASDAQ,USD,,Financial,REITS,REITS-Diversified,SBA COMMUNICATIONS CORP,true,2026-06-13 22:32:43.945
+412,274105,SBUX,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,STARBUCKS CORP,true,2026-06-13 22:32:43.945
+413,11905,SCHW,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Invest Bnkr/Brkr,SCHWAB (CHARLES) CORP,true,2026-06-13 22:32:43.945
+414,195014116,SHOP,US,SMART,NASDAQ,USD,,Communications,Internet,Internet Applic Sftwr,SHOPIFY INC - CLASS A,true,2026-06-13 22:32:43.945
+415,12120,SHW,US,SMART,NYSE,USD,,Basic Materials,Chemicals,Coatings/Paint,SHERWIN-WILLIAMS CO/THE,true,2026-06-13 22:32:43.945
+416,15130038,SJM,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Confectionery,JM SMUCKER CO/THE,true,2026-06-13 22:32:43.945
+417,12200,SLB,US,SMART,NYSE,USD,,Energy,Oil&Gas Services,Oil-Field Services,SLB LTD,true,2026-06-13 22:32:43.945
+418,731466419,SMCI,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Integrated Sys,SUPER MICRO COMPUTER INC,true,2026-06-13 22:32:43.945
+419,12259,SNA,US,SMART,NYSE,USD,,Industrial,Hand/Machine Tools,Tools-Hand Held,SNAP-ON INC,true,2026-06-13 22:32:43.945
+420,760250490,SNDK,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Memory Devices,SANDISK CORP,true,2026-06-13 22:32:43.945
+421,274499,SNPS,US,SMART,NASDAQ,USD,,Technology,Software,Computer Aided Design,SYNOPSYS INC,true,2026-06-13 22:32:43.945
+422,12300,SO,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,SOUTHERN CO/THE,true,2026-06-13 22:32:43.945
+423,691984360,SOLV,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,SOLVENTUM CORP,true,2026-06-13 22:32:43.945
+424,2009113,SPG,US,SMART,NYSE,USD,,Financial,REITS,REITS-Regional Malls,SIMON PROPERTY GROUP INC,true,2026-06-13 22:32:43.945
+425,229629397,SPGI,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,S&P GLOBAL INC,true,2026-06-13 22:32:43.945
+427,11020,SRE,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Distribution,SEMPRA,true,2026-06-13 22:32:43.945
+428,358060563,STE,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,STERIS PLC,true,2026-06-13 22:32:43.945
+429,6478095,STLD,US,SMART,NASDAQ,USD,,Basic Materials,Iron/Steel,Steel-Producers,STEEL DYNAMICS INC,true,2026-06-13 22:32:43.945
+430,2730980,STT,US,SMART,NYSE,USD,,Financial,Banks,Fiduciary Banks,STATE STREET CORP,true,2026-06-13 22:32:43.945
+431,491932113,STX,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Memory Devices,SEAGATE TECHNOLOGY HOLDINGS,true,2026-06-13 22:32:43.945
+432,276066,STZ,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Beverages,Brewery,CONSTELLATION BRANDS INC-A,true,2026-06-13 22:32:43.945
+433,713434903,SW,US,SMART,NYSE,USD,,Industrial,Packaging&Containers,Containers-Paper/Plastic,SMURFIT WESTROCK PLC,true,2026-06-13 22:32:43.945
+434,73354293,SWK,US,SMART,NYSE,USD,,Industrial,Hand/Machine Tools,Tools-Hand Held,STANLEY BLACK & DECKER INC,true,2026-06-13 22:32:43.945
+435,4726021,SWKS,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,SKYWORKS SOLUTIONS INC,true,2026-06-13 22:32:43.945
+436,162231797,SYF,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Credit Card,SYNCHRONY FINANCIAL,true,2026-06-13 22:32:43.945
+437,4430948,SYK,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,STRYKER CORP,true,2026-06-13 22:32:43.945
+438,12581,SYY,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Wholesale/Distrib,SYSCO CORP,true,2026-06-13 22:32:43.945
+439,37018770,T,US,SMART,NYSE,USD,,Communications,Telecommunications,Telephone-Integrated,AT&T INC,true,2026-06-13 22:32:43.945
+440,33191300,TAP,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Beverages,Brewery,MOLSON COORS BEVERAGE CO - B,true,2026-06-13 22:32:43.945
+441,38285434,TDG,US,SMART,NYSE,USD,,Industrial,Aerospace/Defense,Aerospace/Defense-Equip,TRANSDIGM GROUP INC,true,2026-06-13 22:32:43.945
+442,6340773,TDY,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Miscellaneous Manufactur,TELEDYNE TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+443,172729810,TECH,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Instruments,BIO-TECHNE CORP,true,2026-06-13 22:32:43.945
+444,731466408,TEL,US,SMART,NYSE,USD,,Industrial,Electronics,Electronic Compo-Misc,TE CONNECTIVITY PLC,true,2026-06-13 22:32:43.945
+445,12729,TER,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Semiconductor Equipment,TERADYNE INC,true,2026-06-13 22:32:43.945
+446,393460310,TFC,US,SMART,NYSE,USD,,Financial,Banks,Commer Banks-Southern US,TRUIST FINANCIAL CORP,true,2026-06-13 22:32:43.945
+447,6437,TGT,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Discount,TARGET CORP,true,2026-06-13 22:32:43.945
+448,12814,TJX,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Major Dept Store,TJX COMPANIES INC,true,2026-06-13 22:32:43.945
+449,652841542,TKO,US,SMART,NYSE,USD,,"Consumer, Cyclical",Entertainment,Professional Sports,TKO GROUP HOLDINGS INC,true,2026-06-13 22:32:43.945
+450,12869,TMO,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Equipment,THERMO FISHER SCIENTIFIC INC,true,2026-06-13 22:32:43.945
+451,125980227,TMUS,US,SMART,NASDAQ,USD,,Communications,Telecommunications,Cellular Telecom,T-MOBILE US INC,true,2026-06-13 22:32:43.945
+452,463654490,TPL,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil-US Royalty Trusts,TEXAS PACIFIC LAND CORP,true,2026-06-13 22:32:43.945
+453,292491487,TPR,US,SMART,NYSE,USD,,"Consumer, Cyclical",Apparel,Apparel Manufacturers,TAPESTRY INC,true,2026-06-13 22:32:43.945
+454,81671838,TRGP,US,SMART,NYSE,USD,,Energy,Pipelines,Pipelines,TARGA RESOURCES CORP,true,2026-06-13 22:32:43.945
+455,879574622,TRI,US,SMART,NASDAQ,USD,,Communications,Media,Multimedia,THOMSON REUTERS CORP,true,2026-06-13 22:32:43.945
+456,275294,TRMB,US,SMART,NASDAQ,USD,,Industrial,Electronics,Electronic Measur Instr,TRIMBLE INC,true,2026-06-13 22:32:43.945
+457,275321,TROW,US,SMART,NASDAQ,USD,,Financial,Diversified Finan Serv,Invest Mgmnt/Advis Serv,T ROWE PRICE GROUP INC,true,2026-06-13 22:32:43.945
+458,43150617,TRV,US,SMART,NYSE,USD,,Financial,Insurance,Property/Casualty Ins,TRAVELERS COS INC/THE,true,2026-06-13 22:32:43.945
+459,6858322,TSCO,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Gardening Prod,TRACTOR SUPPLY COMPANY,true,2026-06-13 22:32:43.945
+460,76792991,TSLA,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Auto Manufacturers,Auto-Cars/Light Trucks,TESLA INC,true,2026-06-13 22:32:43.945
+461,275405,TSN,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Food,Food-Meat Products,TYSON FOODS INC-CL A,true,2026-06-13 22:32:43.945
+462,406709270,TT,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Air&Heating,TRANE TECHNOLOGIES PLC,true,2026-06-13 22:32:43.945
+463,248755440,TTD,US,SMART,NASDAQ,USD,,Communications,Advertising,Advertising Services,TRADE DESK INC/THE -CLASS A,true,2026-06-13 22:32:43.945
+464,6478131,TTWO,US,SMART,NASDAQ,USD,,Technology,Software,Entertainment Software,TAKE-TWO INTERACTIVE SOFTWRE,true,2026-06-13 22:32:43.945
+465,13096,TXN,US,SMART,NASDAQ,USD,,Technology,Semiconductors,Electronic Compo-Semicon,TEXAS INSTRUMENTS INC,true,2026-06-13 22:32:43.945
+466,13101,TXT,US,SMART,NYSE,USD,,Industrial,Miscellaneous Manufactur,Diversified Manufact Op,TEXTRON INC,true,2026-06-13 22:32:43.945
+493,1448494,WAT,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Diagnostic Equipment,WATERS CORP,true,2026-06-13 22:32:43.945
+494,554208351,WBD,US,SMART,NASDAQ,USD,,Communications,Media,Broadcast Serv/Program,WARNER BROS DISCOVERY INC,true,2026-06-13 22:32:43.945
+495,115324104,WDAY,US,SMART,NASDAQ,USD,,Technology,Software,Enterprise Software/Serv,WORKDAY INC-CLASS A,true,2026-06-13 22:32:43.945
+496,13681,WDC,US,SMART,NASDAQ,USD,,Technology,Computers,Computers-Memory Devices,WESTERN DIGITAL CORP,true,2026-06-13 22:32:43.945
+497,198560237,WEC,US,SMART,NYSE,USD,,Utilities,Electric,Electric-Integrated,WEC ENERGY GROUP INC,true,2026-06-13 22:32:43.945
+499,10375,WFC,US,SMART,NYSE,USD,,Financial,Banks,Super-Regional Banks-US,WELLS FARGO & CO,true,2026-06-13 22:32:43.945
+500,13379,WM,US,SMART,NYSE,USD,,Industrial,Environmental Control,Non-hazardous Waste Disp,WASTE MANAGEMENT INC,true,2026-06-13 22:32:43.945
+501,13805,WMB,US,SMART,NYSE,USD,,Energy,Pipelines,Pipelines,WILLIAMS COS INC,true,2026-06-13 22:32:43.945
+502,13824,WMT,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Discount,WALMART INC,true,2026-06-13 22:32:43.945
+503,266822,WRB,US,SMART,NYSE,USD,,Financial,Insurance,Property/Casualty Ins,WR BERKLEY CORP,true,2026-06-13 22:32:43.945
+504,5019164,WSM,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Home Furnishings,WILLIAMS-SONOMA INC,true,2026-06-13 22:32:43.945
+505,13909,WST,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Products,Medical Products,WEST PHARMACEUTICAL SERVICES,true,2026-06-13 22:32:43.945
+506,217947855,WTW,US,SMART,NASDAQ,USD,,Financial,Insurance,Insurance Brokers,WILLIS TOWERS WATSON PLC,true,2026-06-13 22:32:43.945
+507,13949,WY,US,SMART,NYSE,USD,,Financial,REITS,REITS-Diversified,WEYERHAEUSER CO,true,2026-06-13 22:32:43.945
+508,16454492,WYNN,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Lodging,Casino Hotels,WYNN RESORTS LTD,true,2026-06-13 22:32:43.945
+509,10517,XEL,US,SMART,NASDAQ,USD,,Utilities,Electric,Electric-Integrated,XCEL ENERGY INC,true,2026-06-13 22:32:43.945
+510,13977,XOM,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Comp-Integrated,EXXON MOBIL CORP,true,2026-06-13 22:32:43.945
+511,95703740,XYL,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-Pumps,XYLEM INC,true,2026-06-13 22:32:43.945
+512,212671971,XYZ,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Commercial Serv-Finance,BLOCK INC,true,2026-06-13 22:32:43.945
+467,13116,TYL,US,SMART,NYSE,USD,,Technology,Software,Enterprise Software/Serv,TYLER TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+468,79498203,UAL,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Airlines,Airlines,UNITED AIRLINES HOLDINGS INC,true,2026-06-13 22:32:43.945
+469,365207014,UBER,US,SMART,NYSE,USD,,Communications,Internet,E-Commerce/Services,UBER TECHNOLOGIES INC,true,2026-06-13 22:32:43.945
+470,43274444,UDR,US,SMART,NYSE,USD,,Financial,REITS,REITS-Apartments,UDR INC,true,2026-06-13 22:32:43.945
+471,13206,UHS,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-Hospitals,UNIVERSAL HEALTH SERVICES-B,true,2026-06-13 22:32:43.945
+472,46970422,ULTA,US,SMART,NASDAQ,USD,,"Consumer, Cyclical",Retail,Retail-Perfume&Cosmetics,ULTA BEAUTY INC,true,2026-06-13 22:32:43.945
+473,13272,UNH,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Healthcare-Services,Medical-HMO,UNITEDHEALTH GROUP INC,true,2026-06-13 22:32:43.945
+474,13284,UNP,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Rail,UNION PACIFIC CORP,true,2026-06-13 22:32:43.945
+475,6231002,UPS,US,SMART,NYSE,USD,,Industrial,Transportation,Transport-Services,UNITED PARCEL SERVICE-CL B,true,2026-06-13 22:32:43.945
+476,3629755,URI,US,SMART,NYSE,USD,,"Consumer, Non-cyclical",Commercial Services,Rental Auto/Equipment,UNITED RENTALS INC,true,2026-06-13 22:32:43.945
+477,11669769,USB,US,SMART,NYSE,USD,,Financial,Banks,Super-Regional Banks-US,US BANCORP,true,2026-06-13 22:32:43.945
+478,49462172,V,US,SMART,NYSE,USD,,Financial,Diversified Finan Serv,Finance-Credit Card,VISA INC-CLASS A SHARES,true,2026-06-13 22:32:43.945
+479,136254493,VEEV,US,SMART,NYSE,USD,,Technology,Software,Enterprise Software/Serv,VEEVA SYSTEMS INC-CLASS A,true,2026-06-13 22:32:43.945
+480,292080616,VICI,US,SMART,NYSE,USD,,Financial,REITS,REITS-Diversified,VICI PROPERTIES INC,true,2026-06-13 22:32:43.945
+481,13497,VLO,US,SMART,NYSE,USD,,Energy,Oil&Gas,Oil Refining&Marketing,VALERO ENERGY CORP,true,2026-06-13 22:32:43.945
+482,655276622,VLTO,US,SMART,NYSE,USD,,Industrial,Environmental Control,Water Treatment Systems,VERALTO CORP,true,2026-06-13 22:32:43.945
+483,13515,VMC,US,SMART,NYSE,USD,,Industrial,Building Materials,Bldg Prod-Cement/Aggreg,VULCAN MATERIALS CO,true,2026-06-13 22:32:43.945
+484,69293559,VRSK,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Commercial Services,Consulting Services,VERISK ANALYTICS INC,true,2026-06-13 22:32:43.945
+485,4173050,VRSN,US,SMART,NASDAQ,USD,,Communications,Internet,Web Hosting/Design,VERISIGN INC,true,2026-06-13 22:32:43.945
+486,402783527,VRT,US,SMART,NYSE,USD,,Industrial,Machinery-Constr&Mining,Machinery-Electric Util,VERTIV HOLDINGS CO-A,true,2026-06-13 22:32:43.945
+487,275850,VRTX,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Biotechnology,Medical-Biomedical/Gene,VERTEX PHARMACEUTICALS INC,true,2026-06-13 22:32:43.945
+488,254457731,VST,US,SMART,NYSE,USD,,Utilities,Electric,Independ Power Producer,VISTRA CORP,true,2026-06-13 22:32:43.945
+489,4044062,VTR,US,SMART,NYSE,USD,,Financial,REITS,REITS-Health Care,VENTAS INC.,true,2026-06-13 22:32:43.945
+490,454859695,VTRS,US,SMART,NASDAQ,USD,,"Consumer, Non-cyclical",Pharmaceuticals,Medical-Generic Drugs,VIATRIS INC,true,2026-06-13 22:32:43.945
+491,4901,VZ,US,SMART,NYSE,USD,,Communications,Telecommunications,Telephone-Integrated,VERIZON COMMUNICATIONS INC,true,2026-06-13 22:32:43.945
+492,661633,WAB,US,SMART,NYSE,USD,,Industrial,Machinery-Diversified,Machinery-General Indust,WABTEC CORP,true,2026-06-13 22:32:43.945
+498,207739931,WELL,US,SMART,NYSE,USD,,Financial,REITS,REITS-Health Care,WELLTOWER INC,true,2026-06-13 22:32:43.945
+513,3206042,YUM,US,SMART,NYSE,USD,,"Consumer, Cyclical",Retail,Retail-Restaurants,YUM! BRANDS INC,true,2026-06-13 22:32:43.945
