@@ -69,3 +69,8 @@ Adaptive Candidate Selection for Event-Driven Intraday Breakout Systems Using Da
 ### Motivation 
 
 My current work on ORB and MCI based trading systems 
+
+### data selection caveat 
+
+using current list of snp500 stocks. might result in potential survivorship bias. 
+
